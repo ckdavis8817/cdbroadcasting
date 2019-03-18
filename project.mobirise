@@ -34,7 +34,7 @@
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/globe-thumbnail-128x72.png",
     "noImageResize": "true",
-    "google-analytics": "<!-- AMP Analytics --><script async custom-element=\"amp-analytics\" src=\"https://cdn.ampproject.org/v0/amp-analytics-0.1.js\"></script>\r\n",
+    "google-analytics": "\r\n",
     "siteUrl": "undefined",
     "cookiesAlert": "",
     "gdpr": "",
@@ -1020,7 +1020,7 @@
         "title": "CD Broadcasting The Ultimate Internet Broadcast Webcast and Live Stream ",
         "order": 1,
         "meta_descr": "CD Broadcasting  is a online webcasting service for businesses.  We've built our reputation by bringing you information you need  to know. This is forthose looking for exposure in this day and time. We provide on air advertising for businesses and events. ",
-        "header_custom": "<meta name=\"Keywords\" content=\"internet marketing, video marketing, ultimate guide, videos conversion, livestreaming, experiential marketing, experiential marketing agency,\nexperiential marketing companies, experiential marketing group\">"
+        "header_custom": "<meta name=\"Keywords\" content=\"online advertsing, internet marketing, video marketing, ultimate guide, videos conversion, livestreaming, experiential marketing, experiential marketing agency,\nexperiential marketing companies, experiential marketing group\">"
       },
       "components": [
         {
